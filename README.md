@@ -14,10 +14,7 @@ To run the project, simply download or clone the repository and open the index.h
 
 With the Netflix Clone, you can browse a selection of movies and TV shows, view trailers, and sign up for a subscription, all while experiencing the same polished design and functionality as the real Netflix website.
 
-## Credits
-
-This project was created by [PRAJJAL DHAR], a passionate web developer and movie lover.
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). So feel free to use and modify the code however you like!
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT)
